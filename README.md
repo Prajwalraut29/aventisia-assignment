@@ -18,7 +18,7 @@
 ![Landing Screen](https://i.postimg.cc/4ytxwwQM/image.png)
 
 ### Create New Model Pop-Up Window
-![Create New Model Pop-Up](https://i.postimg.cc/PqZVXwKH/image.png)
+[create model](https://postimg.cc/gwzH4rft)
 
 
 ## Project Setup
