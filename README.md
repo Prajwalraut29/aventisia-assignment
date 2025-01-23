@@ -2,6 +2,14 @@
 
 ## AI Model Builder
 
+## Author Information
+
+- **Name:** Prajwal raut 
+- **Email:** rautprajwal36@gmail.com
+- **Mobile Number:** +91 7620384967
+- **Linkdein:** https://www.linkedin.com/in/prajwal-raut29/
+- **Portfolio:** https://www.prajwalraut.tech/
+
 ### Key Features
 - **Responsive React Table:** A dynamic table that adjusts to various screen sizes, ensuring a user-friendly experience.
 - **TypeScript Typing:** Enhanced type safety and code clarity through the use of TypeScript.
@@ -10,6 +18,7 @@
 - **Pagination:** Efficient navigation through data with pagination support, displaying multiple pages of models.
 - **Sorting:** Users can easily sort models by name for better organization and accessibility.
 - **Search Functionality:** A search bar to quickly filter models by name, improving usability and efficiency.
+
 
 
 ## Screenshot 
