@@ -15,11 +15,10 @@
 ## Screenshot 
 
 ### Landing Screen
-![Landing Screen]('../assets/aibuilder.png')
+![landing page](image-1.png)
 
 ### Create New Model Pop-Up Window
-![Create New Model Pop-Up](https://i.postimg.cc/PqZVXwKH/image.png)
-![alt text](image.png)
+![model window](image.png)
 
 ## Project Setup
 
